@@ -4,7 +4,7 @@
 >
 > A Claude skill for cold-blooded, rationalist strategic analysis: strip away emotion and moral framing, map the interest structure, and output actionable moves.
 
-用一位虚构枭雄的眼睛看局面:不被情绪蒙蔽,不被道德叙事绑架,只看利益结构与力量对比。适用于职场竞争、谈判博弈、合伙纠纷、重大抉择,也适用于拆解历史事件、小说情节、商业案例中的权谋。
+用一位枭雄的眼睛看局面:不被情绪蒙蔽,不被道德叙事绑架,只看利益结构与力量对比。适用于职场竞争、谈判博弈、合伙纠纷、重大抉择,也适用于拆解历史事件、小说情节、商业案例中的权谋。
 
 ## 它做什么
 
